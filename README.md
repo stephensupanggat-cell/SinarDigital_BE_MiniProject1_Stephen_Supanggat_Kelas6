@@ -1,4 +1,4 @@
-# TPM_BE_MiniProject1_[NAMA]_[KELAS]
+# TPM_BE_MiniProject1_Stephen_Supanggat_Kelas6
 
 
 ## Deskripsi
